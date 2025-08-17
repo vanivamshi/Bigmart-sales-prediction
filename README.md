@@ -4,4 +4,3 @@ Bigmart Sales Prediction
 3. Final code - abb_program_final_final.ipynb
 4. Rank screenshot - Rank Screenshot.png
 5. Sales Prediction Hacking Process - Approach Notes.pdf - highlites thought process to approach the problem
-6. 
